@@ -11,3 +11,11 @@ On click the previews get also marked as read.
 
 It's also possible to filter the existing previews with the search bar on top. The number
 input regulates how many entries get loaded from the API.
+
+## How to run it
+
+```
+> npm install
+
+> npm run serve
+```
