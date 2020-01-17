@@ -1,7 +1,6 @@
 ## Hello VueJS
 
-This is just a small project to get started with VueJS. I wouldn't write code like this
-at work, because here I don't have to worry about maintainability.
+This is just a small project to get started with VueJS.
 
 ### What this program does:
 
